@@ -1,0 +1,5 @@
+canvas {
+    background: transparent; /* Make it white if you need */
+    outline: black 3px solid;
+    margin: 0 0;
+  }
