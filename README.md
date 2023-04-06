@@ -20,4 +20,4 @@ To create this fractal, shape I used the "[chaos game](https://en.wikipedia.org/
 
 The script is implemented in JavaScript. The canvas resets after 3000 iterations.
 
-See [my personal blog](https://sites.google.com/view/emanuelemusumeci/blog?authuser=0) for the result.
+See [my personal blog](https://sites.google.com/view/emanuelemusumeci/blog/sierpi%C5%84ski-triangle) for the result.
